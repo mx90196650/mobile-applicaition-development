@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="reflection_count">Reflections: %1$d</string>
+    <string name="last_updated">Last updated %1$s</string>
+    <string name="title_dream">Dream</string>
+    <string name="title_entries">Entries</string>
+</resources>

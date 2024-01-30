@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question_0">What is the capital of Taiwan?</string>
+    <string name="question_1">Which of the following is not part of Taiwanese cuisine?</string>
+    <string name="question_2">Which of the following is not a Taiwanese company?</string>
+    <string name="question_3">What is the official language of Taiwan?</string>
+    <string name="question_0_answer_0">Taipei City</string>
+    <string name="question_0_answer_1">Tainan City</string>
+    <string name="question_0_answer_2">Kaohsiung City</string>
+    <string name="question_0_answer_3">Taichung City</string>
+    <string name="question_1_answer_0">Bubble tea</string>
+    <string name="question_1_answer_1">Sushi</string>
+    <string name="question_1_answer_2">Braised Pork Rice</string>
+    <string name="question_1_answer_3">Beef Noodle soup</string>
+    <string name="question_2_answer_0">TSMC</string>
+    <string name="question_2_answer_1">ASUS</string>
+    <string name="question_2_answer_2">Samsung</string>
+    <string name="question_2_answer_3">ACER</string>
+    <string name="question_3_answer_0">Hakka</string>
+    <string name="question_3_answer_1">Cantonese</string>
+    <string name="question_3_answer_2">Taiwanese</string>
+    <string name="question_3_answer_3">Mandarin</string>
+    <string name="button_hint">Hint</string>
+    <string name="button_submit">Submit</string>
+    <string name="reset_all_button">Reset All</string>
+    <string name="hints_used_label">Hints Used:</string>
+    <string name="total_questions_label">Total Questions:</string>
+    <string name="correct_answers_label">Correct Answers:</string>
+    <string name="results_heading">Results</string>
+
+</resources>
